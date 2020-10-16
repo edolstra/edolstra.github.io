@@ -10,7 +10,7 @@ Software Technology](http://www.st.ewi.tudelft.nl/), [Delft University
 of Technology](http://www.tudelft.nl/), and a computer scientist at
 [LogicBlox](http://www.logicblox.com/).
 
-* [Publication](./pubs)
+* [Publications](./pubs)
 * [Talks](./talks)
 * [E-mail](mailto:edolstra@gmail.com)
 * [GPG key](./gpg.key) (fingerprint:
